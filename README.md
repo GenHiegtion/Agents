@@ -1,5 +1,5 @@
-- Reflection Agent
+## __1. Reflection Agent__
 
-- ReAct Agent
+## __2. ReAct Agent__
 
-- Plan-and-Execute Agent
+## __3. Plan-and-Execute Agent__
