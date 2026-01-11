@@ -171,7 +171,7 @@ Input → Generate → Reflect → Generate (v2) → Reflect → ... → Final O
     │ Reflect  │
     └────┬─────┘
          │
-         └─────► (Lặp lại max 3 lần)
+         └─────► (Lặp lại max 6 lần)
                       │
                       ▼
                    END
